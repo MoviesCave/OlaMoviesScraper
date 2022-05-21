@@ -26,5 +26,5 @@ https://olamovies.uno/the-valet-2022-720p-1080p-2160p-4k-dsnp-web-dl-x265-hevc-e
 It can take some time depending on your pc but will then return the links one by one.
 ## Authors
 
-- [@namakatewa](https://github.com/NamanKatewa)
+- [@namankatewa](https://github.com/NamanKatewa)
 
